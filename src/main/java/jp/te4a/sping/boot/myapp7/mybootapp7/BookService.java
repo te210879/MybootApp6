@@ -1,4 +1,4 @@
-package jp.te4a.sping.boot.myapp6.mybootapp6;
+package jp.te4a.sping.boot.myapp7.mybootapp7;
 
 import java.util.List;
 
